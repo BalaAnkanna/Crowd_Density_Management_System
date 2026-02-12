@@ -37,6 +37,3 @@ This project can be used in:
 4. Calculate crowd density
 5. Display alerts if density exceeds threshold
 
----
-
-## 📂 Project Structure
